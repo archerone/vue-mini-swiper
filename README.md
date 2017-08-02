@@ -1,4 +1,4 @@
-# vue-swiper
+# vue-mini-swiper
 vue mini swiper component,only Horizontal.
 
 
