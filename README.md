@@ -2,11 +2,11 @@
 vue mini swiper component,only Horizontal.
 
 
-## Usage
+## Usage | vue-cli
 
 ```js
 //===home.vue===
-import swiper from '@/components/swiper/swiper.vue'
+import swiper from '@/components/vue-mini-swiper/swiper.vue'
 export default {
   data () {
     return {
@@ -18,7 +18,7 @@ export default {
   }
 }
 //--or--
-import swiper from '@/components/swiper'
+import swiper from '@/components/vue-mini-swiper'
 Vue.use(swiper);
 export default {
   data () {
